@@ -1,0 +1,127 @@
+     
+
+ 
+
+1  jlink 5V 
+       USB  LED0 
+
+2  Jlink  jlink  Keil 
+       keil 
+       RST 
+      
+      AD Switch  LED Switch  AD  LED 
+
+ON  AD  LED SW1  SW2  USB/
+ UART 
+
+
+
+ 1 
+
+1  KEIL  STM32 .
+2  LED 
+3 
+
+ 2 
+
+1  GPIO 
+2  PA0 
+3 
+
+ 3 A/D 
+
+1  PA1 
+2  LED 
+ 4 
+
+1 
+2 
+
+ 5 
+
+1 
+2 
+3 
+
+ 6 
+
+1  12864 
+2 
+3 
+
+ 7 
+
+1  CH451 
+2  CH451 
+3  CH451 
+4 
+
+ 8 
+
+
+
+ 9 
+
+1 
+2  8  IO 
+3  LED
+ 10 
+
+1 
+2 
+
+ 11  DHT11 
+
+1  DHT11 
+2  DHT11 
+3 
+
+ 12  AD 
+
+ A/D 
+
+ 13  DS18B20 
+
+1  DS18B20.
+2  DS18B20 
+3  DS18B20 
+
+ 14 DA 
+
+ TLC5615 DA 
+ TLC5615  LED 
+
+ 15 RS232 
+
+1 RS232 
+2 RS232 
+ 16 RS485 
+
+1 RS485 
+2 RS485 
+
+ 17 
+
+1
+2
+
+ 18 
+
+1
+2
+
+ 19 
+
+1 PWM 
+2 PWM 
+
+ 20 
+
+1
+2
+
+ 21 RTOS 
+
+1c/os-IIFreeRTOS 
+2
+
